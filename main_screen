@@ -2,6 +2,11 @@
   <html>
     <body>
       <h1>Course Planner</h1>
+      <div id="nav">
+        <ul>
+          <li><a href="#login">login</a></li>
+        </ul>
+      </div>
       <form>
         <section class="school">
           <label for="school">What type of protein would you like?</label>
